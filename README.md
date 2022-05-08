@@ -26,10 +26,11 @@ deno test
 
 ### sample app
 
-[Modulus9.js test](https://code4fukui.github.io/Modulus9.js/)
+[Modulus9.js test](https://code4fukui.github.io/Modulus9/)
 
 ## related
 
 - [Verhoeff](https://github.com/code4fukui/Verhoeff)
 - [Luhn](https://github.com/code4fukui/Luhn)
-- [Modulu11](https://github.com/code4fukui/Modulus11)
+- [Modulus11](https://github.com/code4fukui/Modulus11)
+- [Modulus10](https://github.com/code4fukui/Modulus10)
