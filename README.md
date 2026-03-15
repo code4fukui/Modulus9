@@ -1,5 +1,7 @@
 # Modulus9
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A check digit algorithm, Modulus9.
 
 ## in JavaScript (ES module)
