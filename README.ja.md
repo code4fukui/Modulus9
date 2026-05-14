@@ -1,14 +1,12 @@
 # Modulus9
 
-> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+チェックディジットアルゴリズム、Modulus9。
 
-A check digit algorithm, Modulus9.
-
-## in JavaScript (ES module)
+## JavaScript (ESモジュール)
 
 - [Modulus9.js](Modulus9.js)
 
-### How to use
+### 使い方
 
 ```js
 import { Modulus9 } from "https://code4fukui.github.io/Modulus9/Modulus9.js";
@@ -18,23 +16,23 @@ console.log(Modulus9.check("3011101042092")); // true
 console.log(Modulus9.addCheckDigit("011101042092")); // "3011101042092"
 ```
 
-### Test
+### テスト
 
 ```
 deno test
 ```
 
-### Sample app
+### サンプルアプリ
 
 [Modulus9.js test](https://code4fukui.github.io/Modulus9/)
 
-## Related
+## 関連プロジェクト
 
 - [Verhoeff](https://github.com/code4fukui/Verhoeff)
 - [Luhn](https://github.com/code4fukui/Luhn)
 - [Modulus11](https://github.com/code4fukui/Modulus11)
 - [Modulus10](https://github.com/code4fukui/Modulus10)
 
-## License
+## ライセンス
 
-MIT License — see [LICENSE](LICENSE).
+MIT License — 詳細は [LICENSE](LICENSE) を参照してください。
